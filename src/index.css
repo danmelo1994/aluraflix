@@ -24,7 +24,7 @@
 
 body {
   background-color: var(--fundoEscuro);
-  color: var(--corFonte_primaria);
+  color: var(--corFontePrimaria);
   margin: 0;
   font-family: var(--fontePrimaria);
   -webkit-font-smoothing: antialiased;
